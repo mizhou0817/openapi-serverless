@@ -1,0 +1,6 @@
+/test/
+/__pycache__/
+/.idea/
+controllers/__pycache__/
+models/__pycache__/
+schemas/__pycache__/
